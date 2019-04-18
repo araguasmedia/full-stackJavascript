@@ -1,0 +1,30 @@
+App Id
+YyLJnkVPee4VPzxCdfjQ4GvATnwQ8Z76V4YNp34i
+App Name
+Abril2019
+App Description
+Parse API Address
+https://parseapi.back4app.com/
+Parse Version
+2.8.4
+Change Version
+MongoDB Database URI
+mongodb://admin:7Im6t8whko2F7ClRHS5cCDcb@mongodb.back4app.com:27017/99f4460e04e44f10bd8c7e9b92900046?ssl=true
+Client Key
+anpDugQCFmMzxAPYv768Mp2NHbYxiAepWcOrnDho
+Javascript Key
+Gs4hCVy02JR3fO33EvrRhqY7f7V0IW449SLjYqSV
+.NET Key
+cZaqrSjmn5aIZppROwT36b6hihOc0ns14CCjsmbD
+REST API Key
+oMoGY42M6Zr5rv4hbxSu216qLWGcgMzdxxyad7Fq
+Webhook Key
+C7BtMVy1ORTe56MktYp7JxT1VYe5cVzSP1rQkjeL
+File Key
+da544f74-1d06-4762-a630-f4f1bc27d94f
+Master Key
+n8LEfFyLPectMr2gqzT2dAfi3LzSdHO0DzS5SrAL
+Client Class Creation
+Client Class Creation is ALLOWED
+Push Notification from Client
+Push Notification from Client is BLOCKED
